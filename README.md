@@ -4,7 +4,8 @@
 </div>
 
 
-## About Me
+
+### About Me
 
 ● Experienced Automation QA with over 5 years of hands-on experience in QA for web-based applications using software QA tools.
 
@@ -28,6 +29,7 @@ Java Script + Cypress
 ### You can find me on:
 
 +  Telegram - https://t.me/demyshev_a
++  Linkedin - https://www.linkedin.com/in/artem-demyshev/
 <!--
 **mednartem/mednartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
