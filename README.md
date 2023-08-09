@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi there, I'm <a href="(https://github.com/AlyonaEfros)" target="_blank">Sergei</a> 
+  <h1>Hi there, I'm <a href="(https://github.com/AlyonaEfros)" target="_blank">Artem</a> 
   <h3>Automation Quality Assurance engineer</h3>
 </div>
 
