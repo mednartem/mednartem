@@ -6,10 +6,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mednartem&show_icons=true&bg_color=00000000)
 
 ● Experienced Automation QA with over 5 years of hands-on experience in QA for web-based applications using software QA tools.
+
 ● Strong understanding UI + API testing.
+
 ● Proficient in Java, OOP, and test automation, among other skills.
+
 ● Expertise in Smoke testing, Regression testing, Parallel testing, and implementing BDD in a Cucumber framework.
+
 ● Skilled in creating test documentation such as comprehensive test suites and negative or positive test cases based on requirements.
+
 ● Actively mentoring at QA.GURU online IT school 
 
 ### Main automation tech stack:
