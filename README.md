@@ -3,7 +3,8 @@
   <h3>Automation Quality Assurance engineer</h3>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mednartem&show_icons=true&bg_color=00000000)
+
+## About Me
 
 ● Experienced Automation QA with over 5 years of hands-on experience in QA for web-based applications using software QA tools.
 
