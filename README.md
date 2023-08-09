@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Artem</h1>
-  <h3>Automation Quality Assurance engineer from Silicon Value</h3>
+  <h3>Automation Quality Assurance engineer</h3>
 </div>
 
 <!--
