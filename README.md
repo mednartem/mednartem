@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://your-image-url.com" alt="Artem's Profile Picture" width="200" height="200" />
   <h1>Hi there, I'm Artem 👋</h1> 
   <h3>Automation Quality Assurance Engineer</h3>
 </div>
@@ -8,7 +7,7 @@
 
 - 💼 **Over 8 years** of hands-on experience in QA for web-based applications using software QA tools.
 - 🔍 Strong expertise in **UI + API testing**.
-- 💻 Proficient in `Java`, OOP, and test automation; among other skills.
+- 💻 Proficient in `Java`, `JavaScript`, OOP, and test automation; among other skills.
 - 🛠️ Expertise in Smoke testing, Regression testing, Parallel testing, and implementing BDD in a Cucumber framework.
 - 📝 Skilled in creating comprehensive test suites and positive/negative test cases based on requirements.
 - 🎓 Actively mentoring at QA.GURU online IT school.
